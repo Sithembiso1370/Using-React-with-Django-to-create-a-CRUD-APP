@@ -12,3 +12,4 @@ django-cors-headers: an app for handling the server headers required for CORS
 8. Setting up our React app to integrate with Django
 
 -- still need to install boostrap before runing backend and frontend
+- npm install bootstrap reactstrap axios --save
